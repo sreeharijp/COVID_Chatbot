@@ -7,9 +7,9 @@ import re
 import threading
 import time
 
-API_KEY = "tPEEw7WGxt4u"
-PROJECT_TOKEN = "tesO10XY0Y7M"
-RUN_TOKEN = "tYvpLKCqfcRp"
+API_KEY = ""
+PROJECT_TOKEN = ""
+RUN_TOKEN = ""
 Query = ""
 Reply = ""
 Contry = ""
